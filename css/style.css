@@ -893,7 +893,9 @@ footer .copyright-text {
     background: #ffffff;
 }
 
-
+.new-price {
+  color: red;
+}
 
 /*---------------------------------------
    Responsive styles            
